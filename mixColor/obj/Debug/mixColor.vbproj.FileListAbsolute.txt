@@ -1,0 +1,12 @@
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.vbproj.AssemblyReference.cache
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.Form1.resources
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.Resources.resources
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.vbproj.GenerateResource.cache
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.vbproj.CoreCompileInputs.cache
+C:\Users\student\Documents\10762\mixColor\mixColor\bin\Debug\mixColor.exe.config
+C:\Users\student\Documents\10762\mixColor\mixColor\bin\Debug\mixColor.exe
+C:\Users\student\Documents\10762\mixColor\mixColor\bin\Debug\mixColor.pdb
+C:\Users\student\Documents\10762\mixColor\mixColor\bin\Debug\mixColor.xml
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.exe
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.xml
+C:\Users\student\Documents\10762\mixColor\mixColor\obj\Debug\mixColor.pdb
